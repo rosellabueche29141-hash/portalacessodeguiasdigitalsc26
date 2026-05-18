@@ -1,0 +1,4 @@
+/api/verify   /.netlify/functions/verify   200
+/s/*          /index.html                  200
+/             /.netlify/functions/entry    200
+/*            https://www.google.com       302
